@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Azdamus
-- 👀 I’m interested in Python & PowerShell
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on entry level projects with Python and/or Powershell, Azure & Entra ID.
-- 📫 How to reach me - jinxy33@protonmail.com or X.com
+Just dabbling in all things Microsoft Cloud. :)
